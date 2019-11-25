@@ -1,0 +1,41 @@
+
+.navbar-home .navbar-brand{
+	font-size: 3rem;
+	background-color: #7b3519; 
+}
+
+a {
+    color: #fff;
+}
+
+.container-fluid-home {
+    padding: 10px 15px;
+    font-size: 2rem;
+    background-color: #240f0f;
+    height: 80px; 
+}
+
+.navbar-form .form-control {
+    display: inline-block;
+    width: 800px;
+    vertical-align: middle;
+    margin-left: 150px;
+    border-radius: none;
+}
+
+.btn-search {
+    color: #fff;
+    background-color: #6595bf;
+}
+
+div.btn-default{
+	co
+}
+
+
+footer{
+	background-color: #240f0f;
+	color: white;
+	height: 50px;
+	padding: 1.5rem 0;
+}
